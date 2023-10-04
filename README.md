@@ -15,16 +15,28 @@ How to create Repository in github and webstorm
 
 
 #Part 2
+
 **Branch** - A copy of a codeline that's managed in a version control system
+
 **Clone** - hardware or software designed to work the same way as another system
+
 **Commit** - updating a recordi in a database
+
 **Fetch** - getting data with a software, script, or hardware
+
 **GIT** - an open source version control system that's available under the GNU genral public license
+
 **Github** - a web based interface that uses git, allows more than one person to make seperate changes to a website at the same time
+
 **Merge** - adds, appends, or removes duplicates from a dataset
+
 **Merge Conflict** - when git isn't able to resolve a difference in code between two commits
+
 **Push** - communication where there's a request initated by a publisher or central server
+
 **Pull** - communication where a data request comes from the client
+
 **Remote** - access to a network or computer from a distance away
+
 **Repository** - a place where data is kept and maintained in the storage of a computer
    
